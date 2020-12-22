@@ -1,4 +1,4 @@
-# recipe for making tea:
+# # recipe for making tea:
 
 Ingredients: A bowl; Tulsi; 2 cup; Milk; Tea leaves; Ginger; and finally sugar.
 
@@ -13,6 +13,5 @@ Recipe:
 6)  When it starts bubbling add half a cup of milk.
 7)  Wait for some more time, then serve the tea.
 
-Note: The water (one cup), Sugar and tea leaves (one spoon each) and milk (half a cup), add up to 3.5
-
-                                                Enjoy Your Tea
+# Note: The water (one cup), Sugar and tea leaves (one spoon each) and milk (half a cup), add up to 3.5
+# #                                                   Enjoy Your Tea
